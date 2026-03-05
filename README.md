@@ -223,12 +223,12 @@ Future improvements could include:
 
 ---
 
-## Author
+## Authors
 
-**Zaynab Aboulkacem**
-
-Computer Science – Big Data Analytics  
-Al Akhawayn University
+- Zaynab Aboulkacem  
+- Marwane Boussouf  
+- Fatima Zahra Elbejdali  
+- Chahd Nezhari  
 
 
 ---
